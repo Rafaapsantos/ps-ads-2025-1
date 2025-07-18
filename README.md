@@ -20,3 +20,5 @@ Na disciplina de **Programação Script**, aprendemos como criar aplicações ba
 - 🛢️ Integração com banco de dados relacional (PostgreSQL)
 - 🔄 Middleware de autenticação e controle de erros
 - 🌐 Integração com o front-end (React)
+
+Link do projeto: https://ps-ads-2025-1-ruby.vercel.app/
